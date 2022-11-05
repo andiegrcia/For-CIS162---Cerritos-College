@@ -1,0 +1,18 @@
+body {background-color: floralwhite;
+    font-family: "helvetica";}
+
+head {background-color: lightcyan}
+
+h1  {background-color: lightpink}
+
+h2  {background-color: lightpink}
+    
+nav > ul {line-height: 1em;
+    list-style-type: circle;
+    padding-left: 1.5px;}
+
+section {background-color: lightcyan;
+    width:100%;
+    font-size: 1em;}
+
+footer {background-color: lightpink;}
