@@ -1,0 +1,14 @@
+body {background-color: mediumpurple;
+    font-family: Verdana, Geneva, sans-serif;}
+
+header {background-color: lightseagreen}
+    
+menu > ul {line-height: 3em;
+    list-style-type: square;
+    padding-left: 5px;}
+
+section {background-color: lightpink;
+    width:90%;
+    font-size: 2.2em;}
+
+footer {background-color: lightcyan;}
